@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Birthday Greetings</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="let_s_create">Let\'s Create</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="have_a_great_year_ahead">Have a Great Year ahead !</string>
+    <string name="let_s_celebrate">letscelebeate</string>
+</resources>
